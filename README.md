@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmet
+- 👀 I’m interested in everything about technology
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on programming
+- 📫 To reach me via mail AhmeettKurt@gmail.com 
